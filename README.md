@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshuaafengbai
-- 👀 I’m interested in machine learning within quant finance, algorithms and data structures
+- 👀 I’m interested in quant trading and the low level languages and algorithm that enable that.
 
 <!---
 joshuaafengbai/joshuaafengbai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
